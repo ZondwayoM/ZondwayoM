@@ -1,51 +1,91 @@
-<h1 align="center">Hi 👋 I'm Zondwayo</h1>
-<h3 align="center">Tech Strategy • AI Risk • Cybersecurity • Analytics</h3>
+<h1 align="center">Hi, I'm Zondwayo 👋</h1>
+<h3 align="center">Tech Strategy | AI Risk & Analytics | Cybersecurity | Digital Transformation</h3>
 
 <p align="center">
-    Computer Science (Cyber Security) student based in Dubai.<br>
-    Interested in consulting, fintech analytics, AI risk, and digital strategy.<br>
-    I build things, analyse systems, model risk, and translate tech into business insight.
+    Dubai-based Computer Science (Cyber Security) student with experience in PwC Middle East, AI/ML modelling,  
+    cybersecurity governance, and full-stack development.  
+    I work at the intersection of <b>technology, risk, and business strategy</b> — translating complex technical outputs  
+    into insights that support decision-making in consulting, fintech, and investment contexts.
 </p>
 
 ---
 
-## ⚡ What I Work With
-### AI / Data / Modelling
+## ⚡ Skills & Technologies
+
+### AI / Data / Quant
 <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
+- Monte Carlo simulation  
+- Survival modelling (Cox, MLP)  
+- Adversarial ML (FGSM, CW)  
+- Risk analytics & model evaluation  
 
-### Web & Software
+### Software Engineering
 <img src="https://skillicons.dev/icons?i=js,react,firebase,html,css" />
-
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel" />
+- Full-stack development (React + Firebase)  
+- CI/CD (GitHub Actions)  
+- UX testing & usability research  
 
 ### Cybersecurity & Governance
-ISO 27001 • Audit Evidence Testing • Access Control • SoD Review
+ISO 27001 mapping • IT governance review • Access control testing • Segregation of Duties (SoD) analysis  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 AI-Driven Fintech Cyber Risk Quantification Framework (Dissertation)
-Adversarial ML + Monte Carlo simulation + risk analytics  
-Translates model vulnerabilities into financial exposure metrics (EL, VaR, CVaR).
+### 🔐 **AI-Driven Fintech Cyber Risk Quantification Framework**
+A research-driven risk modelling framework combining:
+- Adversarial ML stress testing  
+- Monte Carlo financial exposure simulation  
+- Governance maturity modelling  
 
-### 🏠 SmartNest – Smart Home Energy Platform (Team Lead)
-Full-stack React/Firebase platform aimed at reducing household energy waste.  
-Achieved **96% completion** and an **86.8 SUS score**.
-
-### 🧬 Cancer Detection & Survival Modelling (ML Lead)
-Multimodal ML system using clinical + genomic data.  
-Built survival models (Cox, MLP) with C-index evaluation.
+**Outputs:** Expected Loss (EL), VaR, CVaR, degradation curves, and Power BI dashboards for risk teams & investors.
 
 ---
 
-## 📊 What I’m Focused On
-- Tech & digital strategy in the GCC  
-- AI/ML risk & model robustness  
-- Cybersecurity governance  
-- Fintech analytics & tech investing fundamentals  
-- Turning technical complexity into simple insights for decision-makers  
+### 🏠 **SmartNest — Smart Home Energy Platform (Team Lead, 9 Members)**
+React/Firebase energy-efficiency platform aimed at reducing household waste.  
+- Led development, UX research, CI/CD, and feature integration  
+- Achieved **96% completion** and **86.8 SUS usability score**  
+- Delivered actionable design insights based on user testing  
+
+---
+
+### 🧬 **Cancer Detection & Survival Modelling (ML Lead)**
+Multimodal ML system using clinical + mRNA features:  
+- Classification + survival prediction (Cox, MLP hazard models)  
+- C-index evaluation  
+- Identified limitations of classical ML for censored survival data  
+
+---
+
+## 📊 Strategy, Technology & Market Insight
+Relevant for **consulting, digital strategy, fintech, and tech investing**:
+- Analyse how AI/cyber risks translate into **financial impact**  
+- Evaluate digital platforms for **scalability, usability, and operational resilience**  
+- Conduct competitive research & interpret data for strategic recommendations  
+- Bridge the gap between engineering depth and business problem-solving  
+
+---
+
+## 💼 Experience
+
+### **PwC Middle East — Control Assurance Intern**
+- Reviewed IT governance and access controls across six enterprise systems  
+- Identified SoD conflicts & configuration weaknesses, informing audit testing  
+- Translated technical findings into clear, business-oriented insights  
+
+### **STOR Systems — Cybersecurity Trainee**
+- Trained in SIEM workflows, vulnerability assessment fundamentals,  
+  and incident-handling processes  
+- Supported documentation & internal review discussions  
+
+---
+
+## 🛠 Technical Toolkit
+**Programming:** Python, JavaScript, SQL  
+**Modelling:** Monte Carlo, survival analysis, adversarial ML  
+**Tools:** Power BI, GitHub Actions, React, Firebase, Jupyter  
+**Cyber:** IT governance review, access controls, ISO 27001 mapping  
 
 ---
 
@@ -55,6 +95,9 @@ Built survival models (Cox, MLP) with C-index evaluation.
 <a href="https://github.com/ZondwayoM"><img src="https://skillicons.dev/icons?i=github"/></a>
 
 <br>
-<br>
+
+<p align="center">
+⭐️ <i>Bridging tech, risk, and strategy to build meaningful, data-driven solutions in the GCC.</i> ⭐️  
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ZondwayoM&color=blueviolet)
