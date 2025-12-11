@@ -107,4 +107,3 @@ Connecting technical depth with business and investment relevance:
 ⭐️ <i>Bridging tech, risk, and strategy to build meaningful, data-driven solutions in the GCC.</i> ⭐️  
 </p>
 
-![](https://komarev.com/ghpvc/?username=ZondwayoM&color=blueviolet)
