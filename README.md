@@ -2,7 +2,7 @@
 <h3 align="center">Tech Strategy | AI Risk & Analytics | Cybersecurity | Digital Transformation</h3>
 
 <p align="center">
-    Dubai-based Computer Science (Cyber Security) student with experience in PwC Middle East, AI/ML modelling,  
+    Dubai-based Computer Science (Cyber Security) student with experience at PwC Middle East with a keen interest in AI/ML modelling,  
     cybersecurity governance, and full-stack development.  
     I work at the intersection of <b>technology, risk, and business strategy</b> — translating complex technical outputs  
     into insights that support decision-making in consulting, fintech, and investment contexts.
@@ -14,10 +14,16 @@
 
 ### AI / Data / Quant
 <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
+
 - Monte Carlo simulation  
 - Survival modelling (Cox, MLP)  
 - Adversarial ML (FGSM, CW)  
 - Risk analytics & model evaluation  
+- Decision Trees & Ensemble Methods (XGBoost)  
+- Multilayer Perceptron (MLP)  
+- Ridge Regression & Linear Models  
+- K-Means & Unsupervised Clustering  
+
 
 ### Software Engineering
 <img src="https://skillicons.dev/icons?i=js,react,firebase,html,css" />
@@ -78,8 +84,7 @@ Connecting technical depth with business and investment relevance:
 
 ### **STOR Systems — Cybersecurity Trainee**
 - Trained in SIEM workflows, vulnerability assessment fundamentals,  
-  and incident-handling processes  
-- Supported documentation & internal review discussions  
+  and incident-handling processes   
 
 ---
 
@@ -92,7 +97,7 @@ Connecting technical depth with business and investment relevance:
 ---
 
 ## 📫 Connect With Me
-<a href="mailto:zondwayom@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:zondwayomtine@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/zondwayo-mtine-9baa97349"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://github.com/ZondwayoM"><img src="https://skillicons.dev/icons?i=github"/></a>
 
