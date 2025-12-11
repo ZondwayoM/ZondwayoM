@@ -59,11 +59,13 @@ Multimodal ML system using clinical + mRNA features:
 ---
 
 ## 📊 Strategy, Technology & Market Insight
-Relevant for **consulting, digital strategy, fintech, and tech investing**:
-- Analyse how AI/cyber risks translate into **financial impact**  
-- Evaluate digital platforms for **scalability, usability, and operational resilience**  
-- Conduct competitive research & interpret data for strategic recommendations  
-- Bridge the gap between engineering depth and business problem-solving  
+Connecting technical depth with business and investment relevance:
+
+- Analyse how AI and cybersecurity risks translate into financial and operational impact  
+- Evaluate digital platforms for scalability, usability, and resilience  
+- Conduct market and competitor research to support strategic recommendations  
+- Bridge engineering insights with business problem-solving for consulting and fintech contexts  
+
 
 ---
 
